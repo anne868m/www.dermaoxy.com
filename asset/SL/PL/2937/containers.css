@@ -274,6 +274,10 @@ a.button3{
   a.button3{
   display:block;
 margin:0.2em auto;
+    top: 92px;
+max-height: 35px;
+max-width: 65px;
+font-size: 6px;
   }
   }
 
